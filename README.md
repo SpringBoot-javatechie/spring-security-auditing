@@ -55,4 +55,6 @@ curl --location --request GET 'http://localhost:9090/post/approvePost/3' \
 ```
 
 
+Results :
+![Screen Shot 1401-07-24 at 13 24 50](https://user-images.githubusercontent.com/25712816/196024642-d4ecf262-9030-4fe2-b234-758eeb665fe3.png)
 
